@@ -1,10 +1,10 @@
 # Securities-and-Investment
-证券投资期末估值作业《顺丰控股研究报告》
-### 1 宏观分析
-### 2 行业分析
-行业概况、发展阶段、行业业务量、行业趋势
-### 3 财务分析
-盈利能力、偿债能力、运营能力
-### 4 估值分析
-市盈率、市净率、市价/收入比例估值模型、相对估值
-### 5 分析总结
+The final report of Securities and Investment "SF Research Report"
+### 1 Macro Analysis
+### 2 Industry Analysis
+General situation of the industry, development stage, business volume and trend of the industry
+### 3 Financial Analysis
+Profitability, solvency and operational capability
+### 4 Valuation Analysis
+Price-earnings ratio, price-to-book ratio, market price/income ratio valuation model, relative valuation
+### 5 Analysis Summary
